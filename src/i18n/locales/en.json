@@ -785,7 +785,11 @@
     "enable_index_consistency_check": "Enable periodic consistency check",
     "index_consistency_check_cadence": "Cadence (in minutes)",
     "index_consistency_check_threshold": "Delta threshold (in percentage)",
-    "team_deleted": "Team deleted"
+    "team_deleted": "Team deleted",
+    "scheduled_notification": "Scheduled Notification",
+    "cron": "cron expression",
+    "email_destinations": "Email destinations",
+    "project_id": "Project ID"
   },
   "condition": {
     "warning": "Warning",
